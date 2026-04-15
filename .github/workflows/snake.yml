@@ -24,4 +24,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 THIS LINE FIX
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
