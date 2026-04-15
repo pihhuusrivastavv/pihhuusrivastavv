@@ -1,63 +1,51 @@
-<h1 align="center">✨ Hey there, I'm Anshika Srivastav 👋</h1>
+<h1 align="center">👋 Hey, I'm Anshika Srivastav</h1>
 
 <p align="center">
-  💻 Backend Developer in the making <br>
-  ⚙️ Java • Spring Boot • System Design <br>
-  🚀 Building systems that don’t break under pressure
+  💻 Backend Developer | ⚙️ Java • Spring Boot <br>
+  🚀 Building scalable, fault-tolerant systems <br>
+  🧠 System Design • Event-Driven Architecture • Concurrency
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Java+%7C+Spring+Boot;System+Design+Enthusiast;Event-Driven+Architecture;Building+Scalable+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Java+%7C+Spring+Boot;System+Design+Enthusiast;Event-Driven+Architecture;Building+Scalable+Systems&center=true&width=520&height=45">
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 BCA @ JIIT (2024–2027)  
-- ⚡ Love solving **real-world backend problems**  
-- 🧵 Deep into **Multithreading & Concurrency**  
-- 🔁 Exploring **Event-Driven Systems & Fault Tolerance**  
-- 🚀 Goal: Build **production-level backend systems**
-
----
-
-## 🚀 Tech Universe
+## ⚡ Tech Stack
 
 <p align="center">
 
-💻 **Languages**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <br>
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql" />
-
-⚙️ **Backend & Tools**  
-<br>
-<img src="https://skillicons.dev/icons?i=spring,docker,postman,maven" />
-
-🗄️ **Databases**  
-<br>
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-ff6f00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🔥 What I’ve Built
+## 🔥 Backend Systems I’ve Built
 
-### 🔍 AstuteScout
-🚀 Accelerated Backend Search Engine  
+### 🔍 AstuteScout — Accelerated Backend Search Engine
+🚀 Production-like search backend  
 - 🔎 Tokenization + Inverted Indexing  
-- ⚡ Smart caching + pagination  
-- 🛡️ Rate limiting + validation  
-- 🐳 Dockerized + Swagger docs  
+- ⚡ Caching + Pagination  
+- 🛡️ Rate Limiting + Exception Handling  
+- 🐳 Dockerized + Swagger  
 
 ---
 
 ### ⚙️ Re-Equipped Event Flow Engine
 💥 Fault-Tolerant Event-Driven Backend  
 - 🧵 Multi-threaded processing  
-- ♻️ Retry logic + Dead Letter Queue  
-- 🔄 Crash recovery + idempotency  
+- ♻️ Retry + Dead Letter Queue  
+- 🔄 Crash Recovery + Idempotency  
 - 🐘 PostgreSQL + Docker  
 
 ---
@@ -65,30 +53,38 @@
 ### 🔄 EventFlowProcessor
 ⚡ Concurrent Event Processing System  
 - 🧠 Producer–Consumer architecture  
-- 🔁 Event recovery system  
-- 🧵 Synchronization + bounded buffer  
+- 🔁 Event Recovery System  
+- 🧵 Synchronization + Bounded Buffer  
 
 ---
 
-### 📄 ModCVision
+### 📄 ModCVision (Collaborative)
 📊 Resume Scoring & Ranking System  
-- 🏗️ Layered architecture  
+- 🏗️ Layered Architecture  
 - 💾 SQLite + JDBC  
-- 📈 Rule-based evaluation  
+- 📈 Rule-Based Evaluation  
 
 ---
 
-## 📊 GitHub Power Stats ⚡
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pihhuusrivastavv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pihhuusrivastavv&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pihhuusrivastavv&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pihhuusrivastavv&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (because why not 😏)
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pihhuusrivastavv&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -96,30 +92,33 @@
 
 ---
 
-## 🌐 Let’s Connect
+## 🎯 Current Focus
+
+- 🧠 Advanced System Design  
+- ⚙️ Distributed Systems  
+- 🚀 Backend Internships  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/anshika-srivastav-652324351">💼 LinkedIn</a> •
-  <a href="https://github.com/pihhuusrivastavv">💻 GitHub</a> •
-  <a href="mailto:pihusrivastav97@gmail.com">📧 Email</a>
+  <a href="https://linkedin.com/in/anshika-srivastav-652324351">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:pihusrivastav97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 💭 Dev Philosophy
+## 💭 Dev Mindset
 
-> ⚙️ “Anyone can build features. I build systems that survive failures.”  
-> 🚀 “Clean architecture > quick hacks.”  
-> 🔥 “If it doesn’t scale, it doesn’t matter.”
-
----
-
-## 🎯 Current Focus
-
-- 🧠 Advanced System Design  
-- ⚙️ Distributed Systems basics  
-- 🚀 Backend Internship Preparation  
+> ⚙️ I don’t just build features — I build systems that handle failure.  
+> 🚀 Scalability > shortcuts  
+> 🔥 Clean architecture always wins  
 
 ---
 
-⭐ *If you like my work, consider starring my repositories — it motivates me a lot!*
+⭐ *See ya someday!*
